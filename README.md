@@ -4,7 +4,8 @@
 ```txt
 目录：
 appForDec：安全帽检测预警系统
-face_recognition：基于哈尔特征的detector
+face_recognition：基于哈尔特征的detector 和 yolov3
+obj-dect: fasterRCNN
 CNN:leNet-5网络模型
 testImage：部分测试结果
 testQuestion：用numpy做拟合与梯度下降的练习
