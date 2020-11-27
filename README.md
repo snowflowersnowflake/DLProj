@@ -9,7 +9,6 @@ obj-dect: fasterRCNN
 CNN:leNet-5网络模型
 testImage：部分测试结果
 testQuestion：用numpy做拟合与梯度下降的练习
-keras-CNN-ipy：用keras搭建CNN分类fashionminist数据集
 ```     
 
 ### 安全帽检测预警系统功能：
